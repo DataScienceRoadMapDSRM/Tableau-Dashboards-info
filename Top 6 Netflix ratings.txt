@@ -1,0 +1,7 @@
+Rating,Total
+TV-MA,2027
+TV-14,1698
+TV-PG,701
+R,508
+NR,286
+PG,218
