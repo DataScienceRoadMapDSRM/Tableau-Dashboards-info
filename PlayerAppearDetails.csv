@@ -1,0 +1,664 @@
+,Player,Club,Appearances
+0,Cristiano Ronaldo,Real Madrid CF,101
+1,Cristiano Ronaldo,Juventus,23
+2,Cristiano Ronaldo,Manchester United FC,59
+3,Iker Casillas,Real Madrid CF,150
+4,Iker Casillas,FC Porto,27
+5,Lionel Messi,FC Barcelona,149
+6,Lionel Messi,Paris Saint-Germain,7
+7,Xavi Hernández,FC Barcelona,151
+8,Karim Benzema,Olympique Lyonnais,19
+9,Karim Benzema,Real Madrid CF,123
+10,Raúl González,Real Madrid CF,130
+11,Raúl González,FC Schalke 04,12
+12,Ryan Giggs,Manchester United FC,141
+13,Thomas Müller,FC Bayern München,(10)
+14,Andrés Iniesta,FC Barcelona,130
+15,Sergio Ramos,Real Madrid CF,129
+16,Manuel Neuer,FC Schalke 04,22
+17,Manuel Neuer,FC Bayern München,106
+18,Toni Kroos,FC Bayern München,41
+19,Toni Kroos,Real Madrid CF,86
+20,Sergio Busquets,FC Barcelona,125
+21,Clarence Seedorf,AFC Ajax,11
+22,Clarence Seedorf,Real Madrid CF,25
+23,Clarence Seedorf,AC Milan,89
+24,Gianluigi Buffon,Parma FC,6
+25,Gianluigi Buffon,Paris Saint-Germain,5
+26,Gianluigi Buffon,Juventus,113
+27,Zlatan Ibrahimović,AFC Ajax,19
+28,Zlatan Ibrahimović,Juventus,19
+29,Zlatan Ibrahimović,FC Internazionale Milano,22
+30,Zlatan Ibrahimović,FC Barcelona,10
+31,Zlatan Ibrahimović,Paris Saint-Germain,33
+32,Zlatan Ibrahimović,Manchester United FC,1
+33,Zlatan Ibrahimović,AC Milan,20
+34,Gerard Piqué,Manchester United FC,4
+35,Gerard Piqué,FC Barcelona,120
+36,Paul Scholes,Manchester United FC,124
+37,Roberto Carlos,Real Madrid CF,107
+38,Roberto Carlos,Fenerbahçe SK,13
+39,Xabi Alonso,Real Sociedad de Fútbol,8
+40,Xabi Alonso,Liverpool FC,39
+41,Xabi Alonso,Real Madrid CF,47
+42,Xabi Alonso,FC Bayern München,25
+43,Carles Puyol,FC Barcelona,115
+44,Thierry Henry,AS Monaco FC,9
+45,Thierry Henry,FC Barcelona,26
+46,Thierry Henry,Arsenal FC,77
+47,Philipp Lahm,VfB Stuttgart,7
+48,Philipp Lahm,FC Bayern München,105
+49,Dani Alves,Sevilla FC,8
+50,Dani Alves,FC Barcelona,80
+51,Dani Alves,Juventus,12
+52,Dani Alves,Paris Saint-Germain,11
+53,Petr Čech,AC Sparta Praha,12
+54,Petr Čech,Chelsea FC,94
+55,Petr Čech,Arsenal FC,5
+56,Arjen Robben,PSV Eindhoven,10
+57,Arjen Robben,Chelsea FC,19
+58,Arjen Robben,Real Madrid CF,11
+59,Arjen Robben,FC Bayern München,70
+60,Pepe,Real Madrid CF,71
+61,Pepe,Beşiktaş JK,6
+62,Pepe,FC Porto,32
+63,Paolo Maldini,AC Milan,109
+64,Gary Neville,Manchester United FC,109
+65,John Terry,Chelsea FC,109
+66,Ashley Cole,Arsenal FC,45
+67,Ashley Cole,Chelsea FC,60
+68,Ashley Cole,AS Roma,3
+69,Patrice Evra,AS Monaco FC,21
+70,Patrice Evra,Manchester United FC,65
+71,Patrice Evra,Juventus,22
+72,Andrea Pirlo,FC Internazionale Milano,5
+73,Andrea Pirlo,AC Milan,78
+74,Andrea Pirlo,Juventus,25
+75,David Beckham,Manchester United FC,77
+76,David Beckham,Real Madrid CF,26
+77,David Beckham,AC Milan,2
+78,David Beckham,Paris Saint-Germain,2
+79,Luka Modrić,Tottenham Hotspur,8
+80,Luka Modrić,Real Madrid CF,99
+81,Robert Lewandowski,Borussia Dortmund,28
+82,Robert Lewandowski,FC Bayern München,78
+83,Víctor Valdés,FC Barcelona,106
+84,Frank Lampard,Chelsea FC,102
+85,Frank Lampard,Manchester City FC,3
+86,Cesc Fàbregas,Arsenal FC,55
+87,Cesc Fàbregas,FC Barcelona,26
+88,Cesc Fàbregas,Chelsea FC,23
+89,David Alaba,FC Bayern München,91
+90,David Alaba,Real Madrid CF,12
+91,Oliver Kahn,FC Bayern München,103
+92,Luís Figo,FC Barcelona,24
+93,Luís Figo,Real Madrid CF,58
+94,Luís Figo,FC Internazionale Milano,21
+95,Fernandinho,FC Shakhtar Donetsk,30
+96,Fernandinho,Manchester City FC,73
+97,Marcelo,Real Madrid CF,102
+98,Andriy Shevchenko,AC Milan,59
+99,Andriy Shevchenko,Chelsea FC,15
+100,Andriy Shevchenko,FC Dynamo Kyiv,26
+101,Ángel Di María,SL Benfica,6
+102,Ángel Di María,Real Madrid CF,39
+103,Ángel Di María,Paris Saint-Germain,54
+104,Alessandro Nesta,SS Lazio,21
+105,Alessandro Nesta,AC Milan,78
+106,Edwin van der Sar,AFC Ajax,38
+107,Edwin van der Sar,Juventus,6
+108,Edwin van der Sar,Manchester United FC,54
+109,Thiago Silva,AC Milan,20
+110,Thiago Silva,Paris Saint-Germain,60
+111,Thiago Silva,Chelsea FC,17
+112,Guti,Real Madrid CF,97
+113,Javier Zanetti,FC Internazionale Milano,97
+114,Claude Makelele,FC Nantes,9
+115,Claude Makelele,Real Madrid CF,38
+116,Claude Makelele,Chelsea FC,49
+117,Javier Mascherano,Liverpool FC,28
+118,Javier Mascherano,FC Barcelona,68
+119,Bastian Schweinsteiger,FC Bayern München,89
+120,Bastian Schweinsteiger,Manchester United FC,6
+121,Maxwell,AFC Ajax,23
+122,Maxwell,FC Internazionale Milano,13
+123,Maxwell,FC Barcelona,17
+124,Maxwell,Paris Saint-Germain,41
+125,Michael Ballack,1. FC Kaiserslautern,6
+126,Michael Ballack,FC Bayern München,28
+127,Michael Ballack,Chelsea FC,33
+128,Michael Ballack,Bayer 04 Leverkusen,26
+129,Rio Ferdinand,Leeds United,7
+130,Rio Ferdinand,Manchester United FC,86
+131,Fernando Morientes,AS Monaco FC,12
+132,Fernando Morientes,Real Madrid CF,58
+133,Fernando Morientes,Liverpool FC,5
+134,Fernando Morientes,Valencia CF,14
+135,Fernando Morientes,Olympique de Marseille,4
+136,Didier Drogba,Olympique de Marseille,6
+137,Didier Drogba,Galatasaray AŞ,12
+138,Didier Drogba,Chelsea FC,74
+139,Alessandro Del Piero,Juventus,88
+140,Hasan Salihamidžić,FC Bayern München,85
+141,Hasan Salihamidžić,Juventus,3
+142,Raphaël Varane,Real Madrid CF,83
+143,Raphaël Varane,Manchester United FC,5
+144,Iván Helguera,Real Madrid CF,81
+145,Iván Helguera,Valencia CF,6
+146,Franck Ribéry,FC Bayern München,87
+147,Dejan Stanković,SS Lazio,31
+148,Dejan Stanković,FC Internazionale Milano,56
+149,Ricardo Carvalho,FC Porto,21
+150,Ricardo Carvalho,Chelsea FC,47
+151,Ricardo Carvalho,Real Madrid CF,12
+152,Ricardo Carvalho,AS Monaco FC,6
+153,Kaká,Real Madrid CF,24
+154,Kaká,AC Milan,62
+155,Jérôme Boateng,FC Bayern München,85
+156,Ivan Rakitić,FC Schalke 04,12
+157,Ivan Rakitić,FC Barcelona,60
+158,Ivan Rakitić,Sevilla FC,13
+159,Wayne Rooney,Manchester United FC,85
+160,Lúcio,Bayer 04 Leverkusen,22
+161,Lúcio,FC Bayern München,32
+162,Lúcio,FC Internazionale Milano,27
+163,Lúcio,Juventus,2
+164,Gonzalo Higuaín,Real Madrid CF,48
+165,Gonzalo Higuaín,SSC Napoli,5
+166,Gonzalo Higuaín,Juventus,30
+167,Florent Malouda,Olympique Lyonnais,36
+168,Florent Malouda,Chelsea FC,47
+169,Miralem Pjanić,Olympique Lyonnais,21
+170,Miralem Pjanić,AS Roma,13
+171,Miralem Pjanić,Juventus,38
+172,Miralem Pjanić,FC Barcelona,8
+173,Miralem Pjanić,Beşiktaş JK,3
+174,Arturo Vidal,Juventus,27
+175,Arturo Vidal,FC Bayern München,27
+176,Arturo Vidal,FC Barcelona,18
+177,Arturo Vidal,FC Internazionale Milano,11
+178,Jordi Alba,Valencia CF,7
+179,Jordi Alba,FC Barcelona,75
+180,Massimo Ambrosini,AC Milan,82
+181,Thiago Motta,FC Barcelona,32
+182,Thiago Motta,FC Internazionale Milano,15
+183,Thiago Motta,Paris Saint-Germain,35
+184,Robert Pirès,Olympique de Marseille,11
+185,Robert Pirès,Arsenal FC,63
+186,Robert Pirès,Villarreal CF,8
+187,Koke,Club Atlético de Madrid,82
+188,Mikaël Silvestre,FC Internazionale Milano,6
+189,Mikaël Silvestre,Manchester United FC,64
+190,Mikaël Silvestre,Arsenal FC,9
+191,Mikaël Silvestre,SV Werder Bremen,3
+192,Casemiro,FC Porto,8
+193,Casemiro,Real Madrid CF,73
+194,Frank de Boer,AFC Ajax,34
+195,Frank de Boer,FC Barcelona,41
+196,Frank de Boer,Galatasaray AŞ,6
+197,Sergei Ignashevich,FC Lokomotiv Moskva,23
+198,Sergei Ignashevich,PFC CSKA Moskva,58
+199,Filippo Inzaghi,Juventus,26
+200,Filippo Inzaghi,AC Milan,55
+201,Míchel Salgado,Real Madrid CF,81
+202,Jamie Carragher,Liverpool FC,80
+203,Zinédine Zidane,Juventus,35
+204,Zinédine Zidane,Real Madrid CF,45
+205,Sergio Agüero,Club Atlético de Madrid,14
+206,Sergio Agüero,Manchester City FC,64
+207,Sergio Agüero,FC Barcelona,1
+208,Esteban Cambiasso,Real Madrid CF,14
+209,Esteban Cambiasso,FC Internazionale Milano,62
+210,Esteban Cambiasso,Olympiacos FC,3
+211,Phillip Cocu,FC Barcelona,46
+212,Phillip Cocu,PSV Eindhoven,33
+213,Gennaro Gattuso,AC Milan,79
+214,Antoine Griezmann,Real Sociedad de Fútbol,6
+215,Antoine Griezmann,FC Barcelona,16
+216,Antoine Griezmann,Club Atlético de Madrid,57
+217,Fernando Torres,Liverpool FC,21
+218,Fernando Torres,Chelsea FC,29
+219,Fernando Torres,Club Atlético de Madrid,29
+220,Leonardo Bonucci,Juventus,78
+221,Samuel Eto’o,Real Madrid CF,3
+222,Samuel Eto’o,RCD Mallorca,5
+223,Samuel Eto’o,FC Barcelona,38
+224,Samuel Eto’o,FC Internazionale Milano,23
+225,Samuel Eto’o,Chelsea FC,9
+226,Sami Khedira,VfB Stuttgart,11
+227,Sami Khedira,Real Madrid CF,34
+228,Sami Khedira,Juventus,32
+229,Olexandr Shovkovskiy,FC Dynamo Kyiv,77
+230,Ole Gunnar Solskjær,Manchester United FC,77
+231,Alessio Tacchinardi,Juventus,69
+232,Alessio Tacchinardi,Villarreal CF,8
+233,Douglas Costa,FC Shakhtar Donetsk,34
+234,Douglas Costa,Juventus,16
+235,Douglas Costa,FC Bayern München,26
+236,Michael Essien,Olympique Lyonnais,18
+237,Michael Essien,Chelsea FC,49
+238,Michael Essien,Real Madrid CF,7
+239,Michael Essien,AC Milan,2
+240,Pepe Reina,FC Barcelona,4
+241,Pepe Reina,Liverpool FC,46
+242,Pepe Reina,FC Bayern München,0
+243,Pepe Reina,SSC Napoli,19
+244,Pepe Reina,SS Lazio,7
+245,Pedro Rodríguez,FC Barcelona,60
+246,Pedro Rodríguez,Chelsea FC,16
+247,Wesley Sneijder,AFC Ajax,19
+248,Wesley Sneijder,Real Madrid CF,9
+249,Wesley Sneijder,FC Internazionale Milano,25
+250,Wesley Sneijder,Galatasaray AŞ,23
+251,Mark van Bommel,PSV Eindhoven,31
+252,Mark van Bommel,FC Barcelona,9
+253,Mark van Bommel,FC Bayern München,30
+254,Mark van Bommel,AC Milan,6
+255,Patrick Vieira,Arsenal FC,57
+256,Patrick Vieira,Juventus,7
+257,Patrick Vieira,FC Internazionale Milano,12
+258,Sylvain Wiltord,FC Girondins de Bordeaux,12
+259,Sylvain Wiltord,Arsenal FC,40
+260,Sylvain Wiltord,Olympique Lyonnais,24
+261,Thiago Alcántara,FC Barcelona,10
+262,Thiago Alcántara,FC Bayern München,51
+263,Thiago Alcántara,Liverpool FC,14
+264,Neymar,FC Barcelona,40
+265,Neymar,Paris Saint-Germain,35
+266,Deco,FC Porto,35
+267,Deco,FC Barcelona,32
+268,Deco,Chelsea FC,8
+269,Giorgio Chiellini,Juventus,74
+270,Edgar Davids,AFC Ajax,18
+271,Edgar Davids,AC Milan,4
+272,Edgar Davids,Juventus,48
+273,Edgar Davids,FC Internazionale Milano,4
+274,İlkay Gündoğan,Borussia Dortmund,20
+275,İlkay Gündoğan,Manchester City FC,54
+276,Alex Sandro,FC Porto,21
+277,Alex Sandro,Juventus,53
+278,Pavel Nedvěd,SS Lazio,22
+279,Pavel Nedvěd,Juventus,52
+280,Christian Panucci,AC Milan,21
+281,Christian Panucci,Real Madrid CF,15
+282,Christian Panucci,AS Roma,38
+283,Michael Reiziger,AFC Ajax,20
+284,Michael Reiziger,AC Milan,3
+285,Michael Reiziger,FC Barcelona,41
+286,Michael Reiziger,PSV Eindhoven,10
+287,John Arne Riise,AS Monaco FC,2
+288,John Arne Riise,Liverpool FC,58
+289,John Arne Riise,AS Roma,13
+290,John Arne Riise,APOEL FC,1
+291,Marquinhos,Paris Saint-Germain,73
+292,Rivaldo,FC Barcelona,43
+293,Rivaldo,AC Milan,13
+294,Rivaldo,Olympiacos FC,17
+295,Gaël Clichy,Arsenal FC,42
+296,Gaël Clichy,Manchester City FC,31
+297,Steven Gerrard,Liverpool FC,73
+298,Sidney Govou,Olympique Lyonnais,71
+299,Sidney Govou,Panathinaikos FC,2
+300,Mats Hummels,FC Bayern München,24
+301,Mats Hummels,Borussia Dortmund,49
+302,Claudio Pizarro,Chelsea FC,2
+303,Claudio Pizarro,SV Werder Bremen,9
+304,Claudio Pizarro,FC Bayern München,62
+305,Raheem Sterling,Liverpool FC,6
+306,Raheem Sterling,Manchester City FC,67
+307,Luis Suárez,AFC Ajax,5
+308,Luis Suárez,FC Barcelona,55
+309,Luis Suárez,Club Atlético de Madrid,13
+310,Ruud van Nistelrooy,PSV Eindhoven,11
+311,Ruud van Nistelrooy,Manchester United FC,43
+312,Ruud van Nistelrooy,Real Madrid CF,19
+313,Isco,Valencia CF,2
+314,Isco,Málaga CF,8
+315,Isco,Real Madrid CF,62
+316,Dida,AC Milan,72
+317,Rafinha,FC Schalke 04,15
+318,Rafinha,FC Bayern München,51
+319,Rafinha,Olympiacos FC,6
+320,Samuel Kuffour,FC Bayern München,72
+321,Andriy Pyatov,FC Shakhtar Donetsk,72
+322,Anthony Réveillère,Valencia CF,6
+323,Anthony Réveillère,Olympique Lyonnais,66
+324,Walter Samuel,AS Roma,22
+325,Walter Samuel,Real Madrid CF,6
+326,Walter Samuel,FC Internazionale Milano,40
+327,Walter Samuel,FC Basel 1893,4
+328,Marco Verratti,Paris Saint-Germain,72
+329,Raúl Albiol,Valencia CF,15
+330,Raúl Albiol,Real Madrid CF,21
+331,Raúl Albiol,SSC Napoli,23
+332,Raúl Albiol,Villarreal CF,12
+333,Willian,FC Shakhtar Donetsk,30
+334,Willian,Chelsea FC,41
+335,William Gallas,Olympique de Marseille,7
+336,William Gallas,Chelsea FC,30
+337,William Gallas,Arsenal FC,26
+338,William Gallas,Tottenham Hotspur,8
+339,Mohamed Salah,FC Basel 1893,6
+340,Mohamed Salah,Chelsea FC,2
+341,Mohamed Salah,AS Roma,7
+342,Mohamed Salah,Liverpool FC,56
+343,Roy Keane,Manchester United FC,71
+344,Patrick Kluivert,AFC Ajax,22
+345,Patrick Kluivert,FC Barcelona,46
+346,Patrick Kluivert,PSV Eindhoven,3
+347,John O’Shea,Manchester United FC,71
+348,Roar Strand,Rosenborg BK,71
+349,Marc-André ter Stegen,FC Barcelona,71
+350,César Azpilicueta,Olympique de Marseille,12
+351,César Azpilicueta,Chelsea FC,58
+352,Michael Carrick,Manchester United FC,70
+353,Edinson Cavani,SSC Napoli,8
+354,Edinson Cavani,Paris Saint-Germain,54
+355,Edinson Cavani,Manchester United FC,8
+356,David Silva,Valencia CF,15
+357,David Silva,Manchester City FC,55
+358,Kakha Kaladze,FC Dynamo Kyiv,24
+359,Kakha Kaladze,AC Milan,46
+360,Yaroslav Rakits’kyy,FC Shakhtar Donetsk,53
+361,Yaroslav Rakits’kyy,FC Zenit,17
+362,Fernando,FC Porto,34
+363,Fernando,Manchester City FC,19
+364,Fernando,Galatasaray AŞ,4
+365,Fernando,Sevilla FC,13
+366,Tomáš Rosický,AC Sparta Praha,18
+367,Tomáš Rosický,Borussia Dortmund,13
+368,Tomáš Rosický,Arsenal FC,39
+369,Mehmet Scholl,FC Bayern München,70
+370,Yaya Touré,Olympiacos FC,6
+371,Yaya Touré,FC Barcelona,27
+372,Yaya Touré,Manchester City FC,37
+373,Gianluca Zambrotta,Juventus,44
+374,Gianluca Zambrotta,FC Barcelona,13
+375,Gianluca Zambrotta,AC Milan,13
+376,Giovane Elber,FC Bayern München,60
+377,Giovane Elber,Olympique Lyonnais,9
+378,Jan Oblak,SL Benfica,0
+379,Jan Oblak,Club Atlético de Madrid,69
+380,Mesut Özil,FC Schalke 04,4
+381,Mesut Özil,SV Werder Bremen,6
+382,Mesut Özil,Real Madrid CF,31
+383,Mesut Özil,Arsenal FC,28
+384,Nicolas Anelka,Arsenal FC,5
+385,Nicolas Anelka,Real Madrid CF,10
+386,Nicolas Anelka,Paris Saint-Germain,9
+387,Nicolas Anelka,Fenerbahçe SK,6
+388,Nicolas Anelka,Chelsea FC,37
+389,Nicolas Anelka,Juventus,1
+390,Álvaro Arbeloa,Liverpool FC,22
+391,Álvaro Arbeloa,Real Madrid CF,46
+392,Dani Carvajal,Real Madrid CF,(11)
+393,Blaise Matuidi,Paris Saint-Germain,45
+394,Blaise Matuidi,Juventus,23
+395,Fernando Hierro,Real Madrid CF,68
+396,Nicky Butt,Manchester United FC,67
+397,Martín Demichelis,FC Bayern München,43
+398,Martín Demichelis,Málaga CF,9
+399,Martín Demichelis,Manchester City FC,15
+400,Jens Lehmann,Borussia Dortmund,24
+401,Jens Lehmann,Arsenal FC,35
+402,Jens Lehmann,VfB Stuttgart,8
+403,Álvaro Morata,Real Madrid CF,15
+404,Álvaro Morata,Chelsea FC,7
+405,Álvaro Morata,Club Atlético de Madrid,10
+406,Álvaro Morata,Juventus,35
+407,Gianluca Pessotto,Juventus,67
+408,Lilian Thuram,AS Monaco FC,6
+409,Lilian Thuram,Parma FC,6
+410,Lilian Thuram,Juventus,45
+411,Lilian Thuram,FC Barcelona,10
+412,Kolo Touré,Arsenal FC,61
+413,Kolo Touré,Manchester City FC,1
+414,Kolo Touré,Liverpool FC,2
+415,Kolo Touré,Celtic FC,3
+416,Gareth Bale,Tottenham Hotspur,9
+417,Gareth Bale,Real Madrid CF,57
+418,Alex,PSV Eindhoven,26
+419,Alex,Chelsea FC,24
+420,Alex,Paris Saint-Germain,16
+421,Emmanuel Eboué,Arsenal FC,48
+422,Emmanuel Eboué,Galatasaray AŞ,18
+423,Javi Martínez,FC Bayern München,66
+424,Bernardo Silva,AS Monaco FC,18
+425,Bernardo Silva,Manchester City FC,48
+426,Santiago Cañizares,Real Madrid CF,7
+427,Santiago Cañizares,Valencia CF,58
+428,Alessandro Costacurta,AC Milan,65
+429,Thibaut Courtois,Club Atlético de Madrid,12
+430,Thibaut Courtois,Chelsea FC,16
+431,Thibaut Courtois,Real Madrid CF,37
+432,Hernán Crespo,Parma FC,6
+433,Hernán Crespo,SS Lazio,11
+434,Hernán Crespo,AC Milan,10
+435,Hernán Crespo,Chelsea FC,15
+436,Hernán Crespo,FC Internazionale Milano,23
+437,James Milner,Manchester City FC,20
+438,James Milner,Liverpool FC,45
+439,Nicolás Otamendi,FC Porto,17
+440,Nicolás Otamendi,Manchester City FC,39
+441,Nicolás Otamendi,SL Benfica,9
+442,Axel Witsel,R. Standard de Liège,6
+443,Axel Witsel,SL Benfica,10
+444,Axel Witsel,FC Zenit,24
+445,Axel Witsel,Borussia Dortmund,25
+446,José Bosingwa,Boavista FC,8
+447,José Bosingwa,FC Porto,31
+448,José Bosingwa,Chelsea FC,25
+449,Diego Godín,Villarreal CF,7
+450,Diego Godín,Club Atlético de Madrid,52
+451,Diego Godín,FC Internazionale Milano,5
+452,Branislav Ivanović,Chelsea FC,58
+453,Branislav Ivanović,FC Zenit,6
+454,Fredrik Ljungberg,Arsenal FC,64
+455,Hugo Lloris,Olympique Lyonnais,36
+456,Hugo Lloris,Tottenham Hotspur,28
+457,Jesús Navas,Manchester City FC,30
+458,Jesús Navas,Sevilla FC,34
+459,Saúl Ñíguez,Club Atlético de Madrid,59
+460,Saúl Ñíguez,Chelsea FC,5
+461,Willy Sagnol,AS Monaco FC,8
+462,Willy Sagnol,FC Bayern München,56
+463,Alexis Sánchez,FC Barcelona,24
+464,Alexis Sánchez,Arsenal FC,22
+465,Alexis Sánchez,Manchester United FC,6
+466,Alexis Sánchez,FC Internazionale Milano,12
+467,Júlio César,FC Internazionale Milano,52
+468,Júlio César,SL Benfica,12
+469,Wojciech Szczęsny,Arsenal FC,23
+470,Wojciech Szczęsny,AS Roma,8
+471,Wojciech Szczęsny,Juventus,33
+472,Fabinho,AS Monaco FC,25
+473,Fabinho,Liverpool FC,39
+474,Wes Brown,Manchester United FC,63
+475,Lucho González,Olympique de Marseille,19
+476,Lucho González,FC Porto,44
+477,Keylor Navas,Real Madrid CF,39
+478,Keylor Navas,Paris Saint-Germain,24
+479,Darijo Srna,FC Shakhtar Donetsk,63
+480,Éric Abidal,AS Monaco FC,1
+481,Éric Abidal,Olympique Lyonnais,20
+482,Éric Abidal,FC Barcelona,35
+483,Éric Abidal,Olympiacos FC,6
+484,Jörg Butt,Hamburger SV,6
+485,Jörg Butt,Bayer 04 Leverkusen,35
+486,Jörg Butt,SL Benfica,0
+487,Jörg Butt,FC Bayern München,21
+488,Zé Roberto,Real Madrid CF,4
+489,Zé Roberto,Bayer 04 Leverkusen,21
+490,Zé Roberto,FC Bayern München,37
+491,Predrag Djordjević,Olympiacos FC,62
+492,Julian Draxler,FC Schalke 04,23
+493,Julian Draxler,VfL Wolfsburg,9
+494,Julian Draxler,Paris Saint-Germain,30
+495,Edin Džeko,VfL Wolfsburg,6
+496,Edin Džeko,Manchester City FC,24
+497,Edin Džeko,AS Roma,25
+498,Edin Džeko,FC Internazionale Milano,7
+499,Emerson,Bayer 04 Leverkusen,13
+500,Emerson,AS Roma,22
+501,Emerson,Juventus,18
+502,Emerson,Real Madrid CF,6
+503,Emerson,AC Milan,3
+504,Darren Fletcher,Manchester United FC,62
+505,Mario Götze,FC Bayern München,26
+506,Mario Götze,Borussia Dortmund,36
+507,Tomáš Hübschman,AC Sparta Praha,19
+508,Tomáš Hübschman,FC Shakhtar Donetsk,43
+509,Seydou Keita,Olympique de Marseille,3
+510,Seydou Keita,RC Lens,5
+511,Seydou Keita,Sevilla FC,7
+512,Seydou Keita,FC Barcelona,39
+513,Seydou Keita,AS Roma,8
+514,Bixente Lizarazu,FC Bayern München,62
+515,Jaap Stam,PSV Eindhoven,5
+516,Jaap Stam,Manchester United FC,30
+517,Jaap Stam,SS Lazio,10
+518,Jaap Stam,AC Milan,17
+519,Fabio Cannavaro,Parma FC,5
+520,Fabio Cannavaro,FC Internazionale Milano,17
+521,Fabio Cannavaro,Real Madrid CF,19
+522,Fabio Cannavaro,Juventus,20
+523,Grégory Coupet,Olympique Lyonnais,59
+524,Grégory Coupet,Club Atlético de Madrid,2
+525,Luisão,SL Benfica,61
+526,Daniele De Rossi,AS Roma,61
+527,Didier Deschamps,Olympique de Marseille,7
+528,Didier Deschamps,Juventus,35
+529,Didier Deschamps,Chelsea FC,13
+530,Didier Deschamps,Valencia CF,6
+531,João Moutinho,Sporting Clube de Portugal,20
+532,João Moutinho,FC Porto,14
+533,João Moutinho,AS Monaco FC,27
+534,Joshua Kimmich,FC Bayern München,61
+535,Roy Makaay,Real Club Deportivo La Coruña,29
+536,Roy Makaay,FC Bayern München,32
+537,Antonis Nikopolidis,Panathinaikos FC,28
+538,Antonis Nikopolidis,Olympiacos FC,33
+539,Roque Santa Cruz,FC Bayern München,51
+540,Roque Santa Cruz,Málaga CF,10
+541,Santiago Solari,Real Madrid CF,48
+542,Santiago Solari,FC Internazionale Milano,13
+543,Igor Akinfeev,PFC CSKA Moskva,60
+544,Nani,Manchester United FC,49
+545,Nani,Sporting Clube de Portugal,11
+546,Ricardo Quaresma,FC Internazionale Milano,8
+547,Ricardo Quaresma,FC Porto,39
+548,Ricardo Quaresma,Beşiktaş JK,13
+549,Dimitar Berbatov,Bayer 04 Leverkusen,26
+550,Dimitar Berbatov,Manchester United FC,25
+551,Dimitar Berbatov,AS Monaco FC,9
+552,Iván Córdoba,FC Internazionale Milano,60
+553,Kevin De Bruyne,KRC Genk,4
+554,Kevin De Bruyne,Chelsea FC,3
+555,Kevin De Bruyne,Manchester City FC,53
+556,Ederson,SL Benfica,10
+557,Ederson,Manchester City FC,50
+558,Jefferson Farfán,PSV Eindhoven,34
+559,Jefferson Farfán,FC Schalke 04,22
+560,Jefferson Farfán,FC Lokomotiv Moskva,4
+561,Erik Hoftun,Rosenborg BK,60
+562,Nwankwo Kanu,AFC Ajax,16
+563,Nwankwo Kanu,Arsenal FC,44
+564,Mario Mandžukić,FC Bayern München,20
+565,Mario Mandžukić,Club Atlético de Madrid,10
+566,Mario Mandžukić,Juventus,30
+567,Maicon Sisenando,AS Monaco FC,7
+568,Maicon Sisenando,FC Internazionale Milano,44
+569,Maicon Sisenando,Manchester City FC,3
+570,Maicon Sisenando,AS Roma,6
+571,Juan Verón,SS Lazio,18
+572,Juan Verón,Manchester United FC,22
+573,Juan Verón,Chelsea FC,5
+574,Juan Verón,FC Internazionale Milano,15
+575,Cris,Bayer 04 Leverkusen,4
+576,Cris,Olympique Lyonnais,54
+577,Cris,Galatasaray AŞ,1
+578,Denis Irwin,Manchester United FC,59
+579,John Obi Mikel,Chelsea FC,59
+580,Phil Neville,Manchester United FC,59
+581,Juninho Pernambucano,Olympique Lyonnais,59
+582,Robin van Persie,Feyenoord,2
+583,Robin van Persie,Arsenal FC,45
+584,Robin van Persie,Manchester United FC,12
+585,Theo Walcott,Arsenal FC,59
+586,Eden Hazard,LOSC Lille,6
+587,Eden Hazard,Chelsea FC,38
+588,Eden Hazard,Real Madrid CF,14
+589,Aleksandr Hleb,Arsenal FC,25
+590,Aleksandr Hleb,FC Barcelona,7
+591,Aleksandr Hleb,VfB Stuttgart,15
+592,Aleksandr Hleb,FC BATE Borisov,11
+593,Samir Nasri,Olympique de Marseille,4
+594,Samir Nasri,Arsenal FC,23
+595,Samir Nasri,Manchester City FC,26
+596,Samir Nasri,Sevilla FC,5
+597,Aaron Ramsey,Arsenal FC,43
+598,Aaron Ramsey,Juventus,15
+599,David Trezeguet,AS Monaco FC,9
+600,David Trezeguet,Juventus,49
+601,David Albelda,Valencia CF,57
+602,Joe Cole,Chelsea FC,51
+603,Joe Cole,LOSC Lille,6
+604,Danilo,FC Porto,21
+605,Danilo,Real Madrid CF,10
+606,Danilo,Manchester City FC,8
+607,Danilo,Juventus,18
+608,Gilberto Silva,Arsenal FC,44
+609,Gilberto Silva,Panathinaikos FC,13
+610,Aleksandar Kolarov,SS Lazio,2
+611,Aleksandar Kolarov,Manchester City FC,33
+612,Aleksandar Kolarov,AS Roma,20
+613,Aleksandar Kolarov,FC Internazionale Milano,2
+614,Mateo Kovačić,GNK Dinamo Zagreb,12
+615,Mateo Kovačić,Real Madrid CF,21
+616,Mateo Kovačić,Chelsea FC,24
+617,Jari Litmanen,FC Barcelona,8
+618,Jari Litmanen,Liverpool FC,7
+619,Jari Litmanen,AFC Ajax,42
+620,Lucas Moura,Paris Saint-Germain,38
+621,Lucas Moura,Tottenham Hotspur,19
+622,Maxi Pereira,SL Benfica,35
+623,Maxi Pereira,FC Porto,22
+624,Paul Pogba,Juventus,32
+625,Paul Pogba,Manchester United FC,25
+626,Bacary Sagna,Arsenal FC,38
+627,Bacary Sagna,Manchester City FC,19
+628,Francesco Totti,AS Roma,57
+629,Vítor Baía,FC Barcelona,1
+630,Vítor Baía,FC Porto,55
+631,Daley Blind,Manchester United FC,12
+632,Daley Blind,AFC Ajax,44
+633,Adriano,Sevilla FC,10
+634,Adriano,FC Barcelona,34
+635,Adriano,Beşiktaş JK,12
+636,Nemanja Matić,SL Benfica,18
+637,Nemanja Matić,Chelsea FC,13
+638,Nemanja Matić,Manchester United FC,25
+639,Paolo Montero,Juventus,56
+640,Marc Overmars,AFC Ajax,27
+641,Marc Overmars,Arsenal FC,10
+642,Marc Overmars,FC Barcelona,19
+643,Angelo Peruzzi,Juventus,38
+644,Angelo Peruzzi,SS Lazio,18
+645,Marco Reus,Borussia Dortmund,56
+646,Javier Saviola,AS Monaco FC,7
+647,Javier Saviola,FC Barcelona,24
+648,Javier Saviola,Real Madrid CF,6
+649,Javier Saviola,SL Benfica,8
+650,Javier Saviola,Málaga CF,6
+651,Javier Saviola,Olympiacos FC,5
+652,Aleksei Berezutski,PFC CSKA Moskva,55
+653,David de Gea,Club Atlético de Madrid,1
+654,David de Gea,Manchester United FC,54
+655,Cafu,AS Roma,22
+656,Cafu,AC Milan,33
+657,Mathieu Flamini,AC Milan,13
+658,Mathieu Flamini,Arsenal FC,42
+659,Sadio Mané,Liverpool FC,(13)
+660,Adrien Rabiot,Paris Saint-Germain,36
+661,Adrien Rabiot,Juventus,19
+662,Bent Skammelsrud,Rosenborg BK,55
