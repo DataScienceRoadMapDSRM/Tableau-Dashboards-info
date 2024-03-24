@@ -2,7 +2,7 @@
 function doGet(req) {
 
     var doc = SpreadsheetApp.getActiveSpreadsheet(); 
-    var mysheet = doc.getSheetByName('BigMart');
+    var mysheet = doc.getSheetByName('Friends');
     var values = mysheet.getDataRange().getValues();
 
     var output =[];
