@@ -1,0 +1,26 @@
+
+function doGet(req) {
+
+    var doc = SpreadsheetApp.getActiveSpreadsheet(); 
+    var mysheet = doc.getSheetByName('BigMart');
+    var values = mysheet.getDataRange().getValues();
+
+    var output =[];
+
+    for (var i = 0; i < values.length; i++) {
+        if (i == 0){
+          continue;
+          }
+    var newrow = {}; 
+    for (var j = 0; j < 100; j++) {     
+        if (!values[i][j]) {
+          break; 
+          }
+        newrow[values[0][j]] = values[i][j];
+    }
+    output.push(newrow); 
+    delete newrow;
+    }
+
+    return ContentService.createTextOutput (JSON.stringify({ data: output })).setMimeType (ContentService.MimeType.JSON);
+}
